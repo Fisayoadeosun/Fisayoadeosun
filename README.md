@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fisayoadeosun
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in software development as a DotNet Dev
+- 🌱 I’m currently learning C# and .NetCore 
 - 💞️ I’m looking to collaborate on C# related projects
 - 📫 How to reach me ...
 
